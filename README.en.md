@@ -8,10 +8,10 @@
 #### Description
 抖音视频分享链接批量下载
 
+![12](https://github.com/user-attachments/assets/9bd4875c-f7eb-49f1-8e25-78fe4639391c)
 
 
-用到的模块![Uploading 12.jpg…]()
-
+用到的模块
 
 
 1.  requests
